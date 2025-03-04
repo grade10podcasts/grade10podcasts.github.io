@@ -1,0 +1,22 @@
+{
+    "Biology": [
+        { "title": "Life Processes", "id": "1u6o_8Hdh6g8HssszIpeLgKx5h6EnytnE" }
+    ],
+    "Civics": [
+        { "title": "Power Sharing", "id": "1ZFSEtcRymu85ehqvhWj_w_GUXg94WGKY" }
+    ],
+    "Economics": [
+        { "title": "Development", "id": "1njIpFgpgqSd4ifIp8D5Mc6CDuHETPQpa" },
+        { "title": "Sectors of the Indian Economy", "id": "1v877t3FE6hjdf5w24qd4WpzPL-4q1ME7" }
+        
+    ],
+    "Geography": [
+        { "title": "Resource and Development", "id": "1BC37hCILblmnnaA43PZ_XhhQ3FLs-D0V" }
+    ],
+    "History": [
+        { "title": "The Rise of Nationalism in Europe", "id": "1snK7-jJvPvXjZGgcawS_ZVYgJbIXl5Zi" },
+        { "title": "Nationalism in India", "id": "1x2VfyitHpXI_PBn9_CPqE009g_5Tx99_" }
+    ]
+    
+}
+
