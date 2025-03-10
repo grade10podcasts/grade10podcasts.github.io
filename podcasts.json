@@ -1,9 +1,16 @@
 {
     "Biology": [
-        { "title": "Life Processes", "id": "1u6o_8Hdh6g8HssszIpeLgKx5h6EnytnE" }
+        { "title": "Life Processes", "id": "1u6o_8Hdh6g8HssszIpeLgKx5h6EnytnE" },
+        { "title": "Control and Coordination", "id": "16oEui31DYn0rvKFzOQmJ_4xJCp-tiVUS" },
+        { "title": "How do Organisms Reproduce?", "id": "1SvInAwTD2kV5UYQDnNnMyVzeXzkVy5xP" },
+        { "title": "Heridity", "id": "11tGpF7Vf9kCDs-Xt0Kn6IBjZkSuhb2cS" }
     ],
     "Civics": [
-        { "title": "Power Sharing", "id": "1ZFSEtcRymu85ehqvhWj_w_GUXg94WGKY" }
+        { "title": "Power Sharing", "id": "1ZFSEtcRymu85ehqvhWj_w_GUXg94WGKY" },
+        { "title": "Fedralism", "id": "15GtIt6JPfuiL9ls0ze4QRaJ3UZNTMrgn" },
+        { "title": "Gender, Religion and Caste", "id": "16Qkko7QIQqD9hN4TznG5Mdkh9gpuSYUt" },
+        { "title": "Political Parties", "id": "1SCPU8CJxmU4NadN8-LSGfAPSU9BK8wVT" },
+        { "title": "Outcomes of Democracy", "id": "19gG51cL72NdpPeKIJkqROJNBwop8Bxqp" }
     ],
     "Economics": [
         { "title": "Development", "id": "1njIpFgpgqSd4ifIp8D5Mc6CDuHETPQpa" },
